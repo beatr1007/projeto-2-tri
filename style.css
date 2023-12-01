@@ -2,10 +2,13 @@ body {
     background:#CCCCCC
 }
 
-#
+#banner {
+
+}
 
 h1 {
      text-align: center;
+     color: blue;
 }
 
 p {
@@ -13,7 +16,7 @@ p {
 }
 
 #missão {
-    style="font-size: 20px;
+    font-size: 20px;
 }
 
 em strong {
